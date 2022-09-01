@@ -4,4 +4,4 @@ NPM     : 2106701293
 
 Kelas   : B
 
-Hobi    : Ngoding
+Hobi    : Makan
